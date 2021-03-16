@@ -5,4 +5,4 @@ Tales como:
   * Pdf informe del proyecto.
   * Latex
   * Video explicativo.
-NOTA: Los datos utilizados fueron el de las imágenes (fashion-mnist_train) por lo que cuando se cargue el Colab debe cargar este excel.
+-NOTA: Los datos utilizados fueron el de las imágenes (fashion-mnist_train) por lo que cuando se cargue el Colab debe cargar este excel.
